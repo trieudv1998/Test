@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Clone
 Change!
+=======
+Hello
+>>>>>>> parent of fbeac3d... commit Test.txt
